@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MoonByoll
-- 🌱 I’m currently learning cpp and im looking forward to learn more and more about programming world.
-- learning new things are welcomed to ma world !
-<!---
-MoonByoll/MoonByoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Computer Engineering student 
+- C/C++ programmer, familiar with Java, Gonna learn Python, Golang ...
+- Into developing linux skills
+- Rubik's cube lover 
+- Learning French and Korean
+- So interested in learning more and more about Augmented and virtual reality, Unity and Unreal engine
+- I wish you a nice DAY 
+- **********************
