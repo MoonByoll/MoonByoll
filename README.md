@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MoonByoll
 - Computer Engineering student 
-- C/C++ programmer, familiar with Java, Gonna learn Python, Golang ...
+- C/C++/ UnityC# programmer, familiar with Java, Gonna learn Python, Golang ...
 - Into developing linux skills
 - Rubik's cube lover 
-- Learning French and Korean
-- So interested in learning more and more about Augmented and virtual reality, Unity and Unreal engine
+- Learning French, Korean
+- I work with unity 2D, 3D, VR and AR and am obsessed to learn more and more
 - I wish you a nice DAY 
 **********************
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoonByoll&show_icons=true&&line_height=40)
